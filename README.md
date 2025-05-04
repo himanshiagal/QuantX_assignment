@@ -5,7 +5,7 @@ This project processes and merges market trading data from multiple files based 
 ---
 
 ## Project Structure
-
+```js
 /project_root
 ├── /src
 │   ├── main.cpp # Entry point: handles config loading, data processing
@@ -20,6 +20,7 @@ This project processes and merges market trading data from multiple files based 
 ├── CMakeLists.txt
 └── /resources
     └── config.cfg
+```
 
 
 ## Description
